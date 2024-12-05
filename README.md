@@ -1,4 +1,4 @@
-# Case-Study-Credit-EDA
+# Case-Study-Credit-EDA Exploratory Data Analysis
 This case study focuses on analyzing credit data to uncover insights and trends. The goal is to understand customer behavior, credit usage patterns, and risk factors to improve decision-making and minimize defaults.
 
 Key Steps:
